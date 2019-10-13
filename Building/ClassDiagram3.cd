@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Building.Building" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAgAAAAAAAAAEAgAEEAAAAAAEAAAAIAEAoIAAAAU=</HashCode>
+      <FileName>Building.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.ElevatedFloor" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAQAAAAAAAAAAAAAAMAAAAIAUAAAAAAAA=</HashCode>
+      <FileName>ElevatedFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Floor" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAAAA=</HashCode>
+      <FileName>Floor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.GroundFloor" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAEAAAEAAEAAAAAAAA=</HashCode>
+      <FileName>GroundFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Lift" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAgAAAAAAAAAEAAAAAAkAAIAAAAA=</HashCode>
+      <FileName>Lift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Office" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAQAAAAAAAAAIAAAAEAQAAIAQAAAAAAAA=</HashCode>
+      <FileName>Office.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Program" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.SortByPriority" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>SortByPriority.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Building.Visitor" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAACAAAAAAAAAAAAAAAAAAAAQAgAAAAA=</HashCode>
+      <FileName>Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.WelcomeRoom" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAEAQAAIAAAAAAAAAA=</HashCode>
+      <FileName>WelcomeRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

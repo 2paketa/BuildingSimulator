@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Building.Building">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAIAEAAIAAAAA=</HashCode>
+      <FileName>Building.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.ElevatedFloor">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAQAAAAAAAAAAAAAAEAAAAIAQAAAAAAAA=</HashCode>
+      <FileName>ElevatedFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Entrance">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAEAQAAIAAAAAAAAAA=</HashCode>
+      <FileName>Entrance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Floor" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAEIAAAAA=</HashCode>
+      <FileName>Floor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.GroundFloor">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAgAAAAAAAAAEAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>GroundFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Lift">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAgAAEAIAAAAEAQAAAAAAoAAAAAA=</HashCode>
+      <FileName>Lift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Office">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAQAAIAAAAAAIAAAAEAQAAIAQAAAAAAAA=</HashCode>
+      <FileName>Office.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.Program">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Building.SortByPriority" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>SortByPriority.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Building.Visitor">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAACAAAAAAAAAAAAAAAAAAAAQAgAAAAA=</HashCode>
+      <FileName>Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

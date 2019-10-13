@@ -10,8 +10,19 @@ namespace Building
     {
         static void Main(string[] args)
         {
-            Building building = new Building();
-            building.Main();
+            // Building building = new Building();
+            // building.Main();
+
+            // while lift cycles > 0
+            // check at which floor the elevator
+            // Are there any visotrs at that floor w8ing to enter?
+            // fill elevator until full
+            // when full start
+            // stop next floor
+            // Are there any visitors to get out
+            //  
+            // cycles--
         }
+
     }
 }
